@@ -34,7 +34,7 @@ The objective is to identify customers with a high probability of loan default a
 
 The Power BI dashboard was developed to monitor credit risk distribution, loan purposes, default rates, and customer segmentation based on financial risk indicators.
 
-![Credit Risk Dashboard](./credit_risk_dashboard.PNG)
+![Credit Risk Dashboard](credit_risk_dashboard.png)
 
 
 ## Key Results
