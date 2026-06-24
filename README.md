@@ -19,10 +19,6 @@ The objective is to identify customers with a high probability of loan default a
 - Google Colab
 - Jupyter Notebook
 - CSV / JSON
-- Logistic Regression
-- Random Forest Classifier
-- StandardScaler
-- One-Hot Encoding
   
 ### Machine Learning Techniques
 
@@ -33,6 +29,12 @@ The objective is to identify customers with a high probability of loan default a
 - One-Hot Encoding
 - Confusion Matrix
 - Feature Importance Analysis
+
+  ## Dashboard
+
+The Power BI dashboard was developed to monitor credit risk distribution, loan purposes, default rates, and customer segmentation based on financial risk indicators.
+
+
 
 ## Key Results
 
@@ -55,6 +57,13 @@ The objective is to identify customers with a high probability of loan default a
 - Data Cleaning & Preparation
 - Predictive Modeling
 - Dashboard Development
+
+## Future Improvements
+
+- Compare additional machine learning models.
+- Deploy the model as a web application.
+- Automate dashboard refresh processes.
+- Expand financial risk indicators and model monitoring.
 
 ## Author
 
