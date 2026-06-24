@@ -1,4 +1,4 @@
-# Credit-Risk-Prediction
+# Credit Risk Prediction using Machine Learning, MongoDB Atlas and Power BI
 ## Overview
 
 This project presents an end-to-end credit risk analytics solution developed using Python, MongoDB Atlas, Power BI, and Machine Learning.
